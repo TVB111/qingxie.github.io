@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>主题</title>
+<link href="css/simpleGridTemplate.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Header -->
+  <header class="header">
+    <h4 class="logo">商学院青年志愿者协会主页</h4>
+  </header>
+  <!-- Hero Section -->
+  <section class="intro">
+    <div class="column">
+      <h3>河南大学商学院青协</h3>
+      <img src="file:///C|/Users/田春/Pictures/qing/青协logo.png" alt="" class="profile"> </div>
+    <div class="column">
+      <p>河南大学商学院青年志愿者协会是由自愿从事社会公益事业的河南大学商学院学生组成的，是直属于河南大学商学院团委的群众性学生组织，协会自2007年成立以来，始终秉承着“奉献，友爱，互助，进步”的志愿者精神和“奉献爱心，收获真情”的协会宗旨，在校规校纪允许的范围内开展工作 </p>
+      <p>协会由管理部、实践部、公关部、协调部、宣传部五个部门组成。协会结构为成员、部长、主席三层。协会有若干精品活动，如开封市博物馆志愿者活动、家源敬老院活动等。商学院青协本着引导当代大学生走向社会回报社会的目的，为中国特色社会主义建设奉献自己的力量。</p>
+    </div>
+  </section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///D|/博物馆2/新建文件夹/1548144970407.jpeg" alt="" width="1110" height="700" class="cards"/></a>
+      <h4>辛堤头小学支教</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///D|/博物馆2/新建文件夹/1548145264152.jpeg" alt="" width="939" height="700" class="cards"/></a>
+      <h4>雅歌—关爱听障儿童</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///D|/博物馆2/新建文件夹/1548144911580.jpeg" alt="" width="2400" class="cards"/></a>
+      <h4>青协全体委员大会</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///D|/博物馆2/新建文件夹/1548145108969.jpeg" alt="" width="960" class="cards"/></a>
+      <h4>开封市博物馆志愿活动</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///D|/博物馆2/新建文件夹/1548145022419.jpeg" alt="" width="2133" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="file:///D|/宣传册/母亲节/1565569925958.jpeg"><img src="file:///D|/宣传册/母亲节/1565569925958.jpeg" alt="" width="1442" height="961" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///D|/博物馆2/新建文件夹/1548145049274.jpeg" alt="" width="2133" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///D|/博物馆2/新建文件夹/1548145041659.jpeg" alt="" width="2133" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <!-- Footer Section -->
+  <footer id="contact">
+    <p class="hero_header">向我们发送消息</p>
+    <div class="button">464598346 </div>
+  </footer>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2020- <strong>河南大学商学院</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
